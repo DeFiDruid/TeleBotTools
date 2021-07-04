@@ -1,3 +1,3 @@
 # TeleBotTools
-Telegram Bot Shiller Tools \n
-Please join http://t.me/gemsoftroy for ordering license
+Telegram Bot Shiller Tools
+* Please join http://t.me/gemsoftroy for ordering license
