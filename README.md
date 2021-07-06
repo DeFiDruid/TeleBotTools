@@ -7,3 +7,12 @@ Telegram Bot Shiller Tools (This script is FREE from backdoor, rootkit and troja
 * Run this code in your console: `python got.py` you need to enter your license code, then enter your phone number and telegram code verification number, enter promotional material filename, enter delay between sequnce (in seconds), and the last one enter max sequnce (loop) in times. 
 * You can run this code on your server or VPS
 * Please join http://t.me/gemsoftroy for ordering license or get `Free trial license code` and contact bot creator (gemsoftroy at gmail.com)
+# Features
+* Support telegram media format (gif, jpeg, mp4, png)
+* Support emoji / emoticon
+* Auto handle flood wait errors
+* Promotional file saved as file
+* Auto delayed for spesific group
+* Support multiple language
+
+For bug fixing please contact [gemsoftroy at gmail.com]
