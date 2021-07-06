@@ -9,10 +9,11 @@ Telegram Bot Shiller Tools (This script is FREE from backdoor, rootkit and troja
 * Please join http://t.me/gemsoftroy for ordering license or get `Free trial license code` and contact bot creator (gemsoftroy at gmail.com)
 # Features
 * Support telegram media format (gif, jpeg, mp4, png)
+* Support various promotional materials (link or without link promotional materials)
 * Support emoji / emoticon
 * Auto handle flood wait errors
 * Promotional file saved as file
 * Auto delayed for spesific group
 * Support multiple language
 
-For bug fixing please contact [gemsoftroy at gmail.com]
+For support and bug fixing please contact [gemsoftroy at gmail.com] or join our channel t.me/gemsoftroy
