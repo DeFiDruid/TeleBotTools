@@ -1,6 +1,6 @@
 # TeleBotTools
 Telegram Bot Shiller Tools
-* Join shill group using your telegram account (for shilling)
+* Manually Join shill group promotion target using your telegram account.
 * Create file groups.txt (contain groups ID) using scrap group file (scrap.py) and manually create file nolink.txt (for certain groups that do not allow links)
 * Install python 3 (https://www.python.org/downloads/) and Telethon (https://docs.telethon.dev/en/latest/basic/installation.html)
 * Create promotional material file and save it (support emoticon).
