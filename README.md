@@ -13,7 +13,7 @@ Telegram Bot Shiller Tools (This script is totally FREE from backdoor, rootkit a
 * Support emoji / emoticon
 * Groups filter
 * Auto handle flood wait errors
-* Read promotional material file
+* Read promotional material from file
 * Auto delayed for spesific group
 * Support multiple threads worker just using single file
 * Support multiple language
