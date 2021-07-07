@@ -19,6 +19,6 @@ Telegram Bot Shiller Tools (This script is totally FREE from backdoor, rootkit a
 * Support multiple language
 * Run on termux, laptop / desktop, Server or VPS
 * Support license with period
-* Free trial license
+* Free trial license (with flag #gemsoftroy)
 
 For support and bug fixing or ordering license or renewal please contact [gemsoftroy at gmail dot com] or join our channel t.me/gemsoftroy
