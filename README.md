@@ -17,7 +17,7 @@ Telegram Bot Shiller Tools (This script is totally FREE from backdoor, rootkit a
 * Auto delayed for spesific group
 * Support multiple threads worker only just using single file `got.py`
 * Support multiple language
-* Run on termux, laptop / desktop and VPS
+* Run on termux, laptop / desktop, Server or VPS
 * Support license with period
 * Free trial license
 
