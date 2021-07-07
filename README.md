@@ -11,6 +11,7 @@ Telegram Bot Shiller Tools (This script is totally FREE from backdoor, rootkit a
 * Support telegram media format (gif, jpeg, mp4, png)
 * Support various promotional materials (link or without link promotional materials)
 * Support emoji / emoticon
+* Groups filter
 * Auto handle flood wait errors
 * Read promotional material file
 * Auto delayed for spesific group
