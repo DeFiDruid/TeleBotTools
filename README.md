@@ -14,6 +14,7 @@ Telegram Bot Shiller Tools (This script is totally FREE from backdoor, rootkit a
 * Auto handle flood wait errors
 * Read promotional material file
 * Auto delayed for spesific group
+* Support multiple threads worker just using single file
 * Support multiple language
 
 For support and bug fixing please contact [gemsoftroy at gmail.com] or join our channel t.me/gemsoftroy
