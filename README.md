@@ -8,7 +8,7 @@ Telegram Bot Shiller Tools (This script is totally FREE from backdoor, rootkit a
 * You can run this code on your server or VPS
 * Please join http://t.me/gemsoftroy for ordering license or get `Free trial license code` and contact bot creator (gemsoftroy at gmail.com)
 # Features
-* Support telegram media format (gif, jpeg, mp4, png)
+* Support telegram media format (gif, jpeg, mp4, png etc.)
 * Support various promotional materials (link or without link promotional materials / no emoji or with emoji)
 * Support emoji / emoticon
 * Groups filter
